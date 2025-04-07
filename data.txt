@@ -1,1 +1,5 @@
 # This is the database
+
+date duration tipo comment status
+7 Apr 2025 22:41 1 hora clase "Ejemplo" Pagado
+6 Apr 2025 22:41 2 hora trabajo "Ejemplo" No Pagado
